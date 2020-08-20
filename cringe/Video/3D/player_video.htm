@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#6699FF">
+<FORM NAME="pcsmile">
+<INPUT TYPE="hidden" NAME="cw">
+</FORM>
+
+<SCRIPT LANGUAGE="javascript">
+
+var locate = window.location
+document.pcsmile.cw.value = locate
+
+var text = document.pcsmile.cw.value
+
+function delineate(str)
+{
+nuovotesto = str.substring(str.indexOf("=") + 1,str.length);
+return(nuovotesto);
+}
+
+</script>
+
+      <table border='0' align="center" cellpadding='0' bgcolor="#000000">
+      <tr><td>
+<SCRIPT LANGUAGE="javascript">
+document.write("<OBJECT id='mediaPlayer'  classid='CLSID:22d6f312-b0f6-11d0-94ab-0080c74c7e95'       codebase='http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=5,1,52,701'      standby='Loading Microsoft Windows Media Player components...' type='application/x-oleobject'>");
+document.write("<param name='fileName' value=\"" +delineate(text)+"\">");
+document.write("<param name='animationatStart' value='true'>");	
+document.write("<param name='transparentatStart' value='true'>");	
+document.write("<param name='autoStart' value=\"true\">");	
+document.write("<param name='autosize' value=\"-1\">");	
+document.write("<param name='showControls' value=\"true\">");	
+document.write("<param name='loop' value=\"false\">");	
+document.write("<EMBED type='application/x-mplayer2'        pluginspage='http://microsoft.com/windows/mediaplayer/en/download/' id='mediaPlayer' name='mediaPlayer' displaysize='4' autosize='-1' bgcolor='darkblue' showcontrols=\"true\" showtracker='-1' showdisplay='0' showstatusbar='-1' videoborder3d='-1' src=\"" +delineate(text)+"\" autostart=\"true\" designtimesp='5311' loop=\"true\">");	
+document.write("</EMBED>");	
+document.write("</OBJECT>");	  
+	</script>  
+      </td></tr>
+      <!-- ...end embedded WindowsMedia file -->
+    <!-- begin link to launch external media player... -->
+        <tr><td align='center' bgcolor="#CCCCCC">
+<SCRIPT LANGUAGE="javascript">
+document.write("<a href=\"" +delineate(text)+"\" style='font-size: 85%;' target='_blank'>Apri nel lettore multimediale</a>");	
+</script>	
+<br><a href=""><font color="#000000" size="1" face="Verdana, Arial, Helvetica, sans-serif">Se non visualizzi il filmato, apri la cartella cliccando qui</font></a>
+<br>
+
+
+        <!-- ...end link to launch external media player... -->
+        </td>
+        </tr>
+</table>
+</body>
+</html>

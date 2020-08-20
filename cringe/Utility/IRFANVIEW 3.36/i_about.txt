@@ -1,0 +1,41 @@
+---------------------------------------------------------------------
+File  : 'about.txt' - Info about IrfanView
+Author: Irfan Skiljan
+E-Mail: irfan@linux.tuwien.ac.at
+WWW   : http://www.irfanview.com
+---------------------------------------------------------------------
+
+What is IrfanView ?
+
+IrfanView is a fast FREEWARE image viewer/converter for Win9x/NT
+and Windows 2000. 
+
+Supported file formats:
+AIF, ANI/CUR, ASF, AU/SND, AVI, BMP/DIB, CAM (Casio), CLP, Dicom/ACR, 
+DJVU, EMF/WMF, EPS, FlashPix (FPX), G3, GIF, ICO/ICL/EXE/DLL, IFF/LBM, 
+IMG (GEM), JPG/JPEG, KDC, LDF, LWF, MED, MID/RMI, MOV, MP3, MPG/MPEG, 
+PBM/PGM/PPM, PCX/DCX, PhotoCD, PNG, PSD, PSP, RAS/SUN, RealAudio (RA), 
+RLE, SFF, SFW, SGI/RGB, SWF (Flash/Shockwave), TGA, TIF/TIFF, WAV, WBMP, 
+XBM, XPM.
+ 
+Support for Apple QuickTime: allows IrfanView to read following
+formats: MOV, QTIF, Mac PICT, FLI/FLC.
+
+Microsoft Media Player PlugIn: allows IrfanView to read following
+formats: ASF, AU/SND/AIF, AVI, DAT (VideoCD), MID/RMI, MOV, MP3,
+MPG/MPEG, WAV, WMA, WMF, etc. 
+
+Some features of IrfanView:
+Multi language support, Thumbnail option, preview option, slideshow,
+drag & drop support, fast directory view (fast moving through directory),
+batch conversion, email option, audio CD player, print option, 
+change color depth, scan support, cut/crop, effects (sharpen, blur, 
+Photoshop filter factory), capturing, extract icons from EXE/DLLs, 
+lossless JPG rotation, many hotkeys, many command line options ...
+
+IrfanView was the first Windows graphic viewer (worldwide) with Animated-GIF 
+support !
+
+FREEWARE for use at home !
+
+Enjoy ! :-)

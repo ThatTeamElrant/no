@@ -1,0 +1,129 @@
+-----------------------------------------------------------------------------
+File  : 'Plugins.txt' - Information for IrfanView PlugIns
+Author: Irfan Skiljan
+E-Mail: irfan@linux.tuwien.ac.at
+WWW   : http://www.irfanview.com
+-----------------------------------------------------------------------------
+
+
+Information about IrfanView PlugIns:
+
+
+* 1. MP3.DLL - This PlugIn allows IrfanView to play MP3/MP2/MP1 audio files.
+
+* 2. VIDEO.DLL - This PlugIn allows IrfanView to play video/sound files.
+                 (AVI, MPG/MPEG, WAV, MOV, MID/RMI, AIF, AU/SND)
+
+* 3. IV_PLAYER.EXE - This PlugIn allows IrfanView to play video/sound/audio-cd files.
+                     (AVI, MPG, WAV, MIDI, CDA, WMA, ASF, AIF, SND etc.)
+
+* 4. FPX.DLL - This PlugIn allows IrfanView to read FlashPix format.
+
+* 5. LWF.DLL - This PlugIn allows IrfanView to read/write LuraWave 
+               format LWF. LWF is high compression format and produce better 
+               results as JPG. 
+               IrfanView can save images up to 4096x4096 pixels as LWF. 
+               The DLL is based on the SDK from LuraTech GmbH, Germany:
+               www.luratech.com
+               Thanks guys! :-)
+
+* 6. LDF.DLL - This PlugIn allows IrfanView to read/write LuraDocument 
+               format LDF. LDF is high compression format for images and 
+               documents and produce better results as JPG. 
+               IrfanView can save images up to 4096x4096 pixels as LDF 
+               and max. 6 pages in one LDF file. 
+               The DLL is based on the SDK from LuraTech GmbH, Germany:
+               www.luratech.com
+               Thanks guys! :-)
+
+* 7. EMAIL.DLL - This PlugIn allows IrfanView to send images through as emails.
+
+* 8. PCD.DLL - This DLL is created by Kodak Eastman Company. 
+               It allows IrfanView to read large resolutions from a 
+               PhotoCD file: 1536 x 1024 and 3072 x 2048 pixels.
+
+* 9. JPG_TRANSFORM.DLL - This PlugIn allows IrfanView to process lossless JPG
+                         transformations: vertical flip, horizontal flip, 
+                         and clockwise rotation (90, 180 and 270 degrees).
+
+* 10. QUICKTIME.DLL - This PlugIn allows IrfanView to play Apple Quicktime 
+                      formats: MOV, MacPICT, QTIF and FLI/FLC. 
+                      Note: Apple Quicktime must be installed! 
+                      Download it from Apple:
+                      http://www.apple.com/quicktime/download/
+
+* 11. KDC.DLL - This DLL is created by Kodak Eastman Company. 
+                It allows IrfanView to read KDC files (Kodak Digital Camera). 
+                It was tested with KDC120 and KDC50 files.
+
+* 12. FFACTORY.DLL - This PlugIn allows IrfanView to use Filter Factory 8BF 
+                     files (Photoshop plugins).
+                     The DLL is based on the Filter Factory library from 
+                     Michael Johannhanwahr: www.icnet.de
+                     Thanks Michael! :-)
+
+* 13. FORMATS.DLL - This PlugIn allows IrfanView to use some rare image formats: 
+                    - G3 Fax format
+                    - RAS/SUN format
+                    - Bio-RAD Confocal image format
+                    - DICOM/ACR medical format
+                    - Mosaic format
+                    - XBM format
+                    - XPM format
+                    - GEM-IMG format
+                    - WBMP - WAP Bitmap
+                    - SGI format (Silicon Graphics Image)
+                    - RLE format (Utah RLE Image)
+
+                    Note: G3 format hasn't a specific header and IrfanView 
+                    can't recognize  all such images. If you want to read G3 
+                    images with IrfanView, the file extension MUST BE ".g3" !!!
+
+                    Note: DICOM/ACR format hasn't a specific header and IrfanView 
+                    can't recognize all such images. If you want to read Dicom/ACR
+                    images with IrfanView, the file extension MUST BE ".dcm" or ".acr" !!!
+
+                    Note: Mosaic format hasn't a specific header and IrfanView 
+                    can't recognize  all such images. If you want to read Mosaic 
+                    images with IrfanView, the file extension MUST BE ".mos" !!!
+
+                    Note: XBM format hasn't a specific header and IrfanView can't 
+                    recognize all such images. If you want to read XBM images with 
+                    IrfanView, the file extension MUST BE ".xbm" !!!
+
+                    Note: XPM format hasn't a specific header and IrfanView can't 
+                    recognize all such images. If you want to read XPM images with 
+                    IrfanView, the file extension MUST BE ".xpm" !!!
+
+                    Note: WBMP format hasn't a specific header and IrfanView can't 
+                    recognize all such images. If you want to read WBMP images with 
+                    IrfanView, the file extension MUST BE ".wbmp" !!!
+
+* 14. FLASH.DLL - This PlugIn allows IrfanView to play Macromedia's 
+                  Flash/Shockwave format. Thanks Macromedia! :-)
+
+* 15. DJVU.DLL - This PlugIn allows IrfanView to read AT&Ts DjVu format.
+
+* 16. RA_PLAYER.DLL - This PlugIn allows IrfanView to play Real Audio files.
+                      Note: The Real Player must be installed! 
+                      Download it from Real Networks: www.real.com
+
+* 17. FUNLTDIV.DLL - This PlugIn allows IrfanView to use Filters Unlimited  
+                     files (Photoshop PlugIns and filters)
+                     The PlugIn is based on the Library from 
+                     Michael Johannhanwahr: www.icnet.de
+                     Thanks Michael! :-)
+
+* 18. NCC.DLL - This PlugIn allows IrfanView to read NCC (net.CyberCards) 
+                information from: JPG, GIF and PNG files.
+                You can find more information about the NCC-feature on:
+                http://www.netcybercards.com
+                Thanks guys! :-)
+
+* 19. SFF - PlugIn: allows IrfanView to read Structured Fax Files.
+
+
+* 20. MED.DLL - This PlugIn allows IrfanView to play MED/OctaMED audio files.
+
+* 21. EXIF.DLL - This PlugIn allows IrfanView to show EXIF information from 
+                 EXIF-JPG files.

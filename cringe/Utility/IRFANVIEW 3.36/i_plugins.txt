@@ -1,0 +1,79 @@
+---------------------------------------------------------------------
+File  : 'PlugIns.txt' - Info about IrfanView PlugIns
+Author: Irfan Skiljan
+E-Mail: irfan@linux.tuwien.ac.at
+WWW   : http://www.irfanview.com
+---------------------------------------------------------------------
+
+
+!*! Please use always the current IrfanView and PlugIn version !*!
+
+
+- How to install IrfanView PlugIns?
+
+  1) Visit IrfanView's homepage: http://www.irfanview.com
+  2) Go to "Download->PlugIns"
+  3) Download PlugIns
+  4) Click on the PlugIn file
+  5) PlugIns will be installed into IrfanView "PlugIns" directory
+
+
+Download:
+
+You can download all PlugIns from the Internet:
+   http://www.irfanview.com/plugins.html
+
+  
+
+Available PlugIns:
+
+
+1) MP3 - PlugIn: allows IrfanView to play MP3/MP2/MP1 files.
+
+2) VIDEO - PlugIn: allows IrfanView to play video/sound files
+   (AVI, MPG/MPEG, WAV, MOV, MID/RMI, AIF, AU/SND)
+
+3) IV_PLAYER - PlugIn: allows IrfanView to play video/sound/audio-cd files.
+   (AVI, MPG, WAV, MIDI, CDA, WMA, ASF, AIF, SND etc.)
+
+4) FPX - PlugIn: allows IrfanView to read FlashPix files.
+
+5) LWF - PlugIn: allows IrfanView to read/write LuraWave LWF files.
+
+6) LDF - PlugIn: allows IrfanView to read/write LuraDocument LDF files.
+
+7) EMAIL - PlugIn: allows IrfanView to send images as emails.
+
+8) PCD - PlugIn: allows IrfanView to read Kodak PhotoCD files.
+
+9) JPG-TRANSFORM - PlugIn: allows IrfanView to support lossless JPG transformations.
+
+10) QUICKTIME - PlugIn: allows IrfanView to play Apple Quicktime movies.
+
+11) KDC - PlugIn: allows IrfanView to read Kodak Digital Camera files.
+
+12) FILTER FACTORY - PlugIn: allows IrfanView to use Filter Factory 8BF 
+    files (Photoshop PlugIns and filters).
+
+13) FORMATS - PlugIn: allows IrfanView to read some rare image formats.
+    Current formats: G3, RAS, BioRAD, Dicom/ACR, Mosaic, XBM, XPM, GEM-IMG, SGI, 
+                     RLE, WBMP.
+
+14) FLASH - PlugIn: allows IrfanView to read Flash/Shockwave format.
+
+15) DJVU - PlugIn: allows IrfanView to read AT&T DJVU format.
+
+16) REAL AUDIO - PlugIn: allows IrfanView to play Real Audio RA files.
+
+17) FILTERS UNLIMITED - PlugIn: allows IrfanView to use Filters Unlimited  
+    files (Photoshop PlugIns and filters).
+    Check 'www.icnet.de' for full info.
+
+18) NCC - PlugIn: allows IrfanView to display NCC information from JPG, GIF and PNG files.
+    Check 'www.netcybercards.com' for full info.
+
+19) SFF - PlugIn: allows IrfanView to read Structured Fax Files.
+
+20) MED - PlugIn: allows IrfanView to play MED/OctaMED audio files.
+
+21) EXIF - PlugIn: allows IrfanView to show EXIF information from JPG files.

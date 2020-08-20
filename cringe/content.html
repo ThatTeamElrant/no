@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" language="javascript">
+	function jumpTo(strMenu) {
+		if (strMenu.options[strMenu.selectedIndex].value != "")
+			window.open(strMenu.options[strMenu.selectedIndex].value,'Title');
+			//top.location.href = strMenu.options[strMenu.selectedIndex].value;
+		return true;
+	}
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%"  border="0" cellspacing="5" cellpadding="5">
+  <tr>
+    <td width="48%" bgcolor="#010066"><div align="center"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Scegli il tema che preferisci, e poi dal menu a tendina seleziona il filmato che vuoi vedere. Se hai problemi di riproduzione, prova a installare Windows Media Player, DivX Player o QuickTime dal menu in basso. </strong></font></div></td>
+    <td width="52%"><div align="center"><img src="media/video_animali.jpg" width="304" height="229"><br>
+	<form name="animali" method="post" action=""><select name="animali_movie" onchange="jumpTo(document.animali.animali_movie)">
+      <option value="0" selected>Scegli un filmato sugli animali</option>
+      <option value="Video\Animali\161_you_are_so_beautiful.wmv">Filmato animali 1</option>
+	  <option value="form.php?seriesid=<? echo $seriesvalue; ?>&hide=1#marker">Filmato animali 1</option>
+	  <option value="form.php?seriesid=<? echo $seriesvalue; ?>&hide=1#marker">Filmato animali 1</option>
+    </select>
+	</form>
+    </div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
